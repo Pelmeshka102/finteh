@@ -29,7 +29,7 @@ class AppHomeWidget extends StatelessWidget {
           child: Image.asset('assets/main.jpg'),
         ),
         AppButton(
-          'Ссылка на видео',
+          'Обучающее видео по работе с системой',
           () => HomeController.to.launchInWebViewOrVC(
             'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
           ),
