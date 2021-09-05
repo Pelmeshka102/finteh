@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "927698579058",
+    "project_id": "hackaton-22b69",
+    "storage_bucket": "hackaton-22b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927698579058:android:f43f7fb3ac2be8fe0cdceb",
+        "android_client_info": {
+          "package_name": "com.example.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927698579058-bj9goiorka814bqp4oq0tb49r0jo2uht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEHW1wJLWocR5hJ8ECkN5_kZKYSIVcZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927698579058-bj9goiorka814bqp4oq0tb49r0jo2uht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927698579058-54glta16kf9s57opa10kuk6frkrddbnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
